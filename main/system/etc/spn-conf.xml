@@ -5,7 +5,7 @@
 		spn="МТС"/>
 	<spnOverride
 		numeric="25502"
-		spn="Билайн"/>
+		spn="БИЛАЙН"/>
 	<spnOverride
 		numeric="25503"
 		spn="UA-KYIVSTAR"/>
@@ -17,7 +17,7 @@
 		spn="Golden"/>
 	<spnOverride
 		numeric="25506"
-		spn="life:)"/>
+		spn="LIFE:)"/>
 	<spnOverride
 		numeric="25507"
 		spn="3Mob"/>
@@ -50,10 +50,10 @@
 		spn="Tele2"/>
 	<spnOverride
 		numeric="25028"
-		spn="Билайн"/>
+		spn="БИЛАЙН"/>
 	<spnOverride
 		numeric="25099"
-		spn="Билайн"/>
+		spn="БИЛАЙН"/>
 	<spnOverride
 		numeric="25003"
 		spn="NCC"/>
@@ -89,7 +89,7 @@
 		spn="T-GSM"/>
 	<spnOverride
 		numeric="25039"
-		spn="Utel"/>
+		spn="UTEL"/>
 	<spnOverride
 		numeric="25091"
 		spn="SonicDuo"/>
