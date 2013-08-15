@@ -8,7 +8,7 @@
 		spn="Билайн"/>
 	<spnOverride
 		numeric="25503"
-		spn="КиевСтар"/>
+		spn="UA-KYIVSTAR"/>
 	<spnOverride
 		numeric="25504"
 		spn="IT"/>
