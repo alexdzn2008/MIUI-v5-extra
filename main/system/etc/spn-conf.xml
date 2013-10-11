@@ -93,4 +93,7 @@
 	<spnOverride
 		numeric="25091"
 		spn="SonicDuo"/>
+	<spnOverride
+		numeric="25002"
+		spn="Мегафон"/>
 </spnOverrides>
