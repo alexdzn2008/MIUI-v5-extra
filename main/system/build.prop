@@ -27,8 +27,8 @@ ro.board.platform=msm8960
 # ro.build.product is obsolete; use ro.product.device
 ro.build.product=aries
 # Do not try to parse ro.build.description or .fingerprint
-ro.build.description=aries-user 4.1.1 JRO03L 4.1.0 release-keys
-ro.build.fingerprint=Xiaomi/aries/aries:4.1.1/JRO03L/4.1.0:user/release-keys
+ro.build.description=aries-user 4.1.1 JRO03L 4.4.4 release-keys
+ro.build.fingerprint=Xiaomi/aries/aries:4.1.1/JRO03L/4.4.4:user/release-keys
 ro.build.characteristics=nosdcard
 # end build properties
 #
@@ -228,7 +228,7 @@ ro.com.google.clientidbase=android-xiaomi
 dalvik.vm.heapstartsize=8m
 dalvik.vm.heapgrowthlimit=128m
 dalvik.vm.heapsize=512m
-dalvik.vm.heaputilization=0.50
+dalvik.vm.heaputilization=0.5
 dalvik.vm.heapidealfree=8388608
 dalvik.vm.heapconcurrentstart=2097152
 ro.setupwizard.mode=OPTIONAL
